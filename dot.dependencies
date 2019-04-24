@@ -1,0 +1,26 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "dot-i9300/android_device_samsung_smdk4412-common",
+        "target_path":  "device/samsung/smdk4412-common",
+        "revision":     "dot-p"
+    },
+    {
+        "remote":       "github",
+        "repository":   "dot-i9300/android_hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "revision":     "dot-p"
+    },
+    {
+        "remote":       "github",
+        "repository":   "dot-i9300/packages_apps_SamsungServiceMode",
+        "target_path":  "packages/apps/SamsungServiceMode",
+        "revision":     "pie"
+    },    
+    {
+        "remote":       "github",
+        "repository":   "ChronoMonochrome/android_kernel_samsung_smdk4412",
+        "target_path":  "kernel/samsung/smdk4412",
+        "revision":     "lineage-16.0"
+    }  
+]
